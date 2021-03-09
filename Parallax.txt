@@ -1,0 +1,26 @@
+Parallax Effect:
+
+https://www.w3schools.com/howto/tryhow_css_parallax_demo.htm
+
+
+Without parallax Effect:
+
+https://www.w3schools.com/howto/tryhow_css_parallax_demo_none.htm
+
+opacity:
+https://www.w3schools.com/css/css_background.asp
+
+parallax code:
+
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_parallax&stacked=h
+
+
+Cursor types:
+https://www.w3schools.com/cssref/pr_class_cursor.asp
+
+
+linear-gradient 3 colors :
+
+https://www.w3schools.com/csSref/func_linear-gradient.asp
+
+https://www.w3schools.com/csSref/tryit.asp?filename=trycss3_gradient-linear
